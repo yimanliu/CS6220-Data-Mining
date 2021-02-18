@@ -1,6 +1,6 @@
 # CS6220 - Data Mining Techniques | Assignment
 
-Assignment 2: 96/100
+Assignment 2: 99/100
 -----
 
 1. 1.1: 20/20
