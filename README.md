@@ -1,5 +1,21 @@
 # CS6220 - Data Mining Techniques | Assignment
 
+Assignment 3: 99/100
+-----
+
+1. 1.1: 10/10
+2. 1.2: 10/10
+3. 1.3: 5/5
+4. 1.4: 5/5
+5. 2.1: 9/10
+6. 2.2: 10/10
+7. 3.1: 20/20
+8. 3.2: 10/10
+9. 3.3: 10/10
+10. 3.4: 10/10
+
+* 1.2.1: should limit the length of the item set to 2 when applying apriori, higher confidence threshold leads to the correct answer though
+
 Assignment 2: 99/100
 -----
 
