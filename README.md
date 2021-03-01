@@ -1,5 +1,16 @@
 # CS6220 - Data Mining Techniques | Assignment
 
+Assignment 4: 100/100
+-----
+
+Nice job!
+
+1. 1.1.1: 15/15
+2. 1.1.2: 15/15
+3. 1.1.3: 20/20
+4. 1.2.1: 25/25
+5. 1.2.2: 25/25
+
 Assignment 3: 99/100
 -----
 
