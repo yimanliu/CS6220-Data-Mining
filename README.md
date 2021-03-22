@@ -1,5 +1,21 @@
 # CS6220 - Data Mining Techniques | Assignment
 
+Midterm: 100/100
+-----
+Great job! 
+
+1: 10/10  
+2: 10/10  
+3: 10/10  
+4: 10/10  
+5: 10/10  
+6: 10/10  
+7: 10/10  
+8: 10/10  
+9: 10/10  
+10: 10/10  
+Q2(Bonus): 0/5   
+
 Assignment 5: 115/100
 -----
 Nice job!
